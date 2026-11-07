@@ -1,0 +1,19 @@
+{
+  "name": "Sesli Kitap | Dijital Kütüphane",
+  "short_name": "Sesli Kitap",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f4ed",
+  "theme_color": "#102f24",
+  "lang": "tr",
+  "description": "PDF kitaplarınızı cihazınızda saklayıp okuyabileceğiniz ve dinleyebileceğiniz kişisel kütüphane",
+  "icons": [
+    {
+      "src": "kitap-logo.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
